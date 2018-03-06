@@ -1,0 +1,14 @@
+Facial Detection Project
+
+Tool: OpenCV
+Language: Python
+Author: Shantnu Tiwaris
+Source website: 
+https://realpython.com/blog/python/face-recognition-with-python/
+Source code:
+https://github.com/shantnu/FaceDetect/
+
+This is a nice project if you want to get familar with openCV and facial recognition. 
+I modify the parameters from source code to suit this picture for detection.
+Try the tutorial at source website and good luck!
+
